@@ -1,27 +1,50 @@
-# StoreShop
+# Project Name
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+Store shop
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Responsive web application using Angular
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Product listing with search and filter capabilities
+- Product details page
+- Shopping cart management
+- State management with NGRX
+- Responsive design
+- Error handling and validation
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Getting Started
 
-## Running unit tests
+### Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone the repository:
+    ```bash
 
-## Running end-to-end tests
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Navigate to the project directory:
+    ```bash
+    cd store-shop
+    ```
 
-## Further help
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Running the Application
+
+1. Start the development server:
+    ```bash
+    ng serve
+    ```
+
+2. Open your browser and navigate to `http://localhost:4200/`.
+
+## Stay in touch
+
+- Author - Fatma Aboshady
+- linked in  - [https://www.linkedin.com/in/fatima-aboshady/](https://www.linkedin.com/in/fatima-aboshady/)
